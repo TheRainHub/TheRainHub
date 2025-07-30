@@ -1,8 +1,10 @@
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=21&duration=3000&pause=2000&color=AF6EF7&background=1F1F1F0E&multiline=true&repeat=false&width=435&height=60&lines=Michael+Plokhin;Full+Stack+Developer" alt="Michael Plokhin — Full‑Stack Developer" />
-  </a>
-</p>
+<div align="center">
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=21&duration=3000&pause=2000&color=AF6EF7&background=1F1F1F0E&multiline=true&repeat=false&width=435&height=60&lines=Michael+Plokhin;Full+Stack+Developer" alt="Michael Plokhin — Full‑Stack Developer" />
+    </a>
+  </p>
+</div>
 
 ---
 
