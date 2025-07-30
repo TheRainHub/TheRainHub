@@ -47,4 +47,4 @@
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mykhailo%20Plokhin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-plokhin-baaa50225/)
-- Email: michaelplokhinstj@gmail.com
+- Email: mikhailplokhinstj@gmail.com
