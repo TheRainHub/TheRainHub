@@ -46,5 +46,5 @@
 ---
 
 ### 🔗 Links
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([(https://www.linkedin.com/in/mykhailo-plokhin-baaa50225/)])
+[![LinkedIn Badge](https://img.shields.io/badge/-Mykhailo%20Plokhin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-plokhin-baaa50225/)
 - Email: michaelplokhinstj@gmail.com
