@@ -23,3 +23,4 @@ DevOps & Tools: Docker, Git, GitHub Actions, Linux
 
 Currently Learning: AWS, Kubernetes, Kafka
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=TheRainHub&layout=compact&theme=default&hide_border=true
