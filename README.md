@@ -22,4 +22,3 @@ Databases: PostgreSQL, MongoDB, Redis
 DevOps & Tools: Docker, Git, GitHub Actions, Linux
 
 Currently Learning: AWS, Kubernetes, Kafka
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRainHub&show_icons=true&theme=default&hide_border=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRainHub&layout=compact&theme=default&hide_border=true" /> </div>
