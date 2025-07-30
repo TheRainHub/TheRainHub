@@ -1,8 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&pause=1000&color=AF6EF7&background=9F5F9C0E&multiline=true&width=435&lines=Michael+Plokhin;Full+Stack+Developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrainsMono&size=21&duration=3000&pause=2000&color=AF6EF7&background=1F1F1F0E&multiline=true&repeat=false&width=435&height=60&lines=Michael+Plokhin;Full+Stack+Developer)](https://git.io/typing-svg)
 ## 📌 About Me
 🎓 Software Engineering @ Technical University in Prague
 
