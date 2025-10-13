@@ -48,7 +48,6 @@
 **Currently Learning:** AWS, Kubernetes, Kafka
 
 ---
-![](https://raw.githubusercontent.com/TheRainHub/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
 ### 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mykhailo%20Plokhin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mykhailo-plokhin-baaa50225/)
