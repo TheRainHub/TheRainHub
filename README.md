@@ -33,7 +33,7 @@
 
 ## 📌 About Me
 - 🎓 Software Engineering @ **Czech Technical University in Prague (CTU)**
-- 🏢 MIW(My Invention World) SEO
+- 🏢 Founder & Lead Engineer @ MIW
 - 💻 Building side projects with **Java, Python, TypeScript**
 - 🧱 Interested in **system design, architecture, AI**, and **cloud**
 - 🌱 Always learning and shipping small features end‑to‑end
