@@ -43,7 +43,7 @@
 ## 🧰 Tech Stack
 **Languages:** Java, Python, TypeScript
 **Backend:** Spring Boot, FastAPI  
-**Frontend:** React, Tailwind CSS, Material UI,   
+**Frontend:** React, Next.js, Redux, Tailwind CSS, Material UI,   
 **Databases:** PostgreSQL, MongoDB, Redis  
 **DevOps & Tools:** Docker, Git, GitHub Actions, Linux  
 **Currently Learning:** AWS, Kubernetes, Kafka, RabbitMQ
