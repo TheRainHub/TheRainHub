@@ -32,7 +32,7 @@
 ---
 
 ## 📌 About Me
-- 🎓 Software Engineering Intern at @Make **Czech Technical University in Prague (CTU)**
+- 🎓 Software Engineering Intern at @Make || **Czech Technical University in Prague (CTU)**
 - ⌨️ Developer Productivity Team
 - 🏢 Founder & Lead Engineer @ MIW
 - 💻 Building side projects with **Java, Python, TypeScript**
