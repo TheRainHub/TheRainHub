@@ -32,7 +32,8 @@
 ---
 
 ## 📌 About Me
-- 🎓 Software Engineering @ **Czech Technical University in Prague (CTU)**
+- 🎓 Software Engineering Intern at @Make **Czech Technical University in Prague (CTU)**
+- ⌨️ Developer Productivity Team
 - 🏢 Founder & Lead Engineer @ MIW
 - 💻 Building side projects with **Java, Python, TypeScript**
 - 🧱 Interested in **system design, architecture, AI**, and **cloud**
@@ -42,7 +43,7 @@
 
 ## 🧰 Tech Stack
 **Languages:** Java, Python, TypeScript
-**Backend:** Spring Boot, FastAPI  
+**Backend:** Spring Boot, FastAPI
 **Frontend:** React, Next.js, Redux, Tailwind CSS, Material UI,   
 **Databases:** PostgreSQL, MongoDB, Redis  
 **DevOps & Tools:** Docker, Git, GitHub Actions, Linux  
